@@ -2,9 +2,29 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/RGarrido03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=7&theme=transparent"/>
+  <picture height="180em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true" />
+  </picture>
+
+  <picture height="180em">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8" />
+  </picture>
 </div>
   
 <div align="center">
