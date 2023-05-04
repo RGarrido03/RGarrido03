@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <picture height="150em">
+  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -35,7 +35,7 @@
     <img align="center" alt="Instagram" height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
   </a>
   <a href="https://www.twitter.com/rubentgarrido03">
-    <img align="center" alt="Twitter" height="20" width="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
+    <img align="center" alt="Twitter" height="20" width="28" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg">
   </a>
   <a href="https://www.discord.com/users/607925437456187392">
     <img align="center" alt="Discord" height="18" width="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg">
