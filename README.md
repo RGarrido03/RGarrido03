@@ -4,26 +4,26 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+      srcset="https://readme-stats-rgarrido03.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true"
+      srcset="https://readme-stats-rgarrido03.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true" />
+    <img src="https://readme-stats-rgarrido03.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
 
   <picture height="150em">
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8&theme=dark"
+      srcset="https://readme-stats-rgarrido03.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8"
+      srcset="https://readme-stats-rgarrido03.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8" />
+    <img src="https://readme-stats-rgarrido03.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8" />
   </picture>
 </div>
   
