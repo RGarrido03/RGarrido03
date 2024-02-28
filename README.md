@@ -35,7 +35,17 @@
     <img align="center" alt="Instagram" height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
   </a>
   <a href="https://www.twitter.com/rubentgarrido03">
-    <img align="center" alt="Twitter" height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg">
+    <picture height="20">
+      <source 
+        srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" height="20"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="20"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" alt="X" height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg">
+    </picture>
   </a>
   <a href="https://www.discord.com/users/607925437456187392">
     <img align="center" alt="Discord" height="18" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg">
