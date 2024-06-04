@@ -1,5 +1,28 @@
 <h1 align="center">Hi! &#128075;</h1>
-<br>
+
+<p align="center"><strong>I'm Rúben, a third-year Computer Science student at the University of Aveiro.</strong></p>
+
+<p align="center">I have a strong interest in frontend design and development, as well as DevOps (Docker & CI/CD).<br/>However, I also have experience in backend development and databases.</p>
+
+<div align="center">
+  You can find me at&nbsp;
+  <a href="https://www.instagram.com/rubentgarrido">
+    <picture height="16">
+      <img align="center" alt="Instagram" height="16" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
+    </picture>
+  </a>,
+  <a href="https://www.twitter.com/rubentgarrido03">
+    <picture height="16">
+      <img align="center" alt="X" height="16" src="https://github.com/RGarrido03/RGarrido03/assets/57329376/475c1d38-f78f-45d1-9652-731186c3d7e7">
+    </picture>
+  </a> and
+  <a href="https://www.linkedin.com/in/rgarrido03/">
+    <picture height="16">
+      <img align="center" alt="LinkedIn" height="16" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
+    </picture>
+  </a>.
+</div>
+<br/>
 
 <div align="center">
   <picture>
@@ -13,43 +36,4 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=RGarrido03&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGarrido03&layout=compact&langs_count=8" />
-  </picture>
-</div>
-  
-<div align="center">
-  <br>
-  
-  Find me at&nbsp;
-  <a href="https://www.instagram.com/rubentgarrido">
-    <img align="center" alt="Instagram" height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
-  </a>
-  <a href="https://www.twitter.com/rubentgarrido03">
-    <picture height="20">
-      <source 
-        srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" height="20"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="20"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" alt="X" height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg">
-    </picture>
-  </a>
-  <a href="https://www.discord.com/users/607925437456187392">
-    <img align="center" alt="Discord" height="18" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg">
-  </a>
-  
-  And check my activity &#128071;
 </div>
