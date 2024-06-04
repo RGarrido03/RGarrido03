@@ -5,7 +5,7 @@
 <p align="center">I have a strong interest in frontend design and development, as well as DevOps (Docker & CI/CD).<br/>However, I also have experience in backend development and databases.</p>
 
 <div align="center">
-  You can find me at&nbsp;
+  You can find me at
   <a href="https://www.instagram.com/rubentgarrido">
     <picture height="16">
       <img align="center" alt="Instagram" height="16" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
