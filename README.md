@@ -10,11 +10,6 @@
     <picture height="16">
       <img align="center" alt="Instagram" height="16" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
     </picture>
-  </a>,
-  <a href="https://www.twitter.com/rubentgarrido03">
-    <picture height="16">
-      <img align="center" alt="X" height="16" src="https://github.com/RGarrido03/RGarrido03/assets/57329376/475c1d38-f78f-45d1-9652-731186c3d7e7">
-    </picture>
   </a> and
   <a href="https://www.linkedin.com/in/rgarrido03/">
     <picture height="16">
