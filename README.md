@@ -1,11 +1,13 @@
 <h1 align="center">Hi! &#128075;</h1>
 
-<p align="center"><strong>I'm Rúben, a third-year Computer Science student at the University of Aveiro.</strong></p>
+<p align="center"><strong>I'm Rúben, a Computer Science / Informatics Engineering student at University of Aveiro.</strong></p>
 
-<p align="center">I have a strong interest in frontend design and development, as well as DevOps (Docker & CI/CD).<br/>However, I also have experience in backend development and databases.</p>
+<p align="center">Although I have a strong interest in frontend design and development, I consider myself full-stack, as I have considerable experience in backend development, databases, Docker, and CI/CD.</p>
+
+<p align="center">I'm always ready to embrace new challenges and I love adapting to new technologies and circumstances.</p>
 
 <div align="center">
-  You can find me at
+  Want to know more? Find me at
   <a href="https://www.instagram.com/rubentgarrido">
     <picture height="16">
       <img align="center" alt="Instagram" height="16" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
